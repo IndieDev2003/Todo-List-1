@@ -57,6 +57,8 @@ html,body{
     align-items: center;
     flex-wrap: wrap;
     background-color: white;
+
+    overflow: hidden;
     justify-content: space-between;
     border-radius:12px;
     margin-top:10px;
